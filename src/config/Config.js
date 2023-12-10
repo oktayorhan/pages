@@ -1,5 +1,3 @@
-import { initializeApp } from "firebase/app"
-
 export const FirebaseConfig = {
     apiKey: "AIzaSyBV6ADTcfnnAVvROY-bNFkR9rqqKa1TnME",
     authDomain: "claccproject2.firebaseapp.com",
